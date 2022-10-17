@@ -152,7 +152,7 @@ margin-bottom: 20px;
 
 /* tablet view */
 
-@media only screen and ( mix-width: 769px ) , (max-width: 1024px) {
+@media only screen and (max-width: 1024px) {
     .griditem1 {
         width: 80%;
         margin: auto;
